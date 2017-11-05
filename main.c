@@ -7,6 +7,6 @@ int addition (int A, int B)
 }
 int main()
 {
-    printf("%d\n", addition(1,4));
+    printf("L'addition de a et b est égale à %d\n", addition(1,4));
     return 0;
 }
